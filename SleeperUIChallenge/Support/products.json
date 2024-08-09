@@ -1,0 +1,107 @@
+[
+    {
+        "image": "wireless_headphones",
+        "name": "Wireless Headphones",
+        "price": 199.99,
+        "id": "P001",
+        "description": "Experience unparalleled sound quality and freedom with our Wireless Headphones. Perfect for music lovers on the go!"
+    },
+    {
+        "image": "smart_watch",
+        "name": "Smart Watch",
+        "price": 149.99,
+        "id": "P002",
+        "description": "Stay connected and track your fitness goals with our sleek and stylish Smart Watch. A must-have for modern living!"
+    },
+    {
+        "image": "bluetooth_speaker",
+        "name": "Bluetooth Speaker",
+        "price": 89.99,
+        "id": "P003",
+        "description": "Bring the party anywhere with our powerful Bluetooth Speaker. Enjoy crystal-clear audio and deep bass, wire-free!"
+    },
+    {
+        "image": "gaming_mouse",
+        "name": "Gaming Mouse",
+        "price": 59.99,
+        "id": "P004",
+        "description": "Level up your gaming with our precision-engineered Gaming Mouse. Designed for gamers who demand the best!"
+    },
+    {
+        "image": "mechanical_keyboard",
+        "name": "Mechanical Keyboard",
+        "price": 129.99,
+        "id": "P005",
+        "description": "Feel the difference with our Mechanical Keyboard. Built for speed, accuracy, and durability in every keystroke!"
+    },
+    {
+        "image": "hd_monitor",
+        "name": "HD Monitor",
+        "price": 249.99,
+        "id": "P006",
+        "description": "Immerse yourself in stunning visuals with our HD Monitor. Perfect for work, gaming, and everything in between!"
+    },
+    {
+        "image": "portable_charger",
+        "name": "Portable Charger",
+        "price": 39.99,
+        "id": "P007",
+        "description": "Keep your devices powered up on the go with our Portable Charger. Compact, reliable, and ready when you need it!"
+    },
+    {
+        "image": "wireless_earbuds",
+        "name": "Wireless Earbuds",
+        "price": 79.99,
+        "id": "P008",
+        "description": "Enjoy true wireless freedom with our Wireless Earbuds. Compact design, rich sound, and long battery life!"
+    },
+    {
+        "image": "smartphone",
+        "name": "Smartphone",
+        "price": 699.99,
+        "id": "P009",
+        "description": "Get the latest in mobile technology with our cutting-edge Smartphone. Power, performance, and style in your hand!"
+    },
+    {
+        "image": "laptop_stand",
+        "name": "Laptop Stand",
+        "price": 49.99,
+        "id": "P010",
+        "description": "Enhance your workspace with our ergonomic Laptop Stand. Improve posture and productivity with ease!"
+    },
+    {
+        "image": "webcam",
+        "name": "Webcam",
+        "price": 99.99,
+        "id": "P011",
+        "description": "Stay connected with high-definition video using our Webcam. Perfect for video calls, streaming, and more!"
+    },
+    {
+        "image": "usb_c_hub",
+        "name": "USB-C Hub",
+        "price": 29.99,
+        "id": "P012",
+        "description": "Expand your device’s connectivity with our USB-C Hub. Multiple ports, one compact solution!"
+    },
+    {
+        "image": "external_hard_drive",
+        "name": "External Hard Drive",
+        "price": 119.99,
+        "id": "P013",
+        "description": "Back up your important files with our high-capacity External Hard Drive. Reliable storage you can count on!"
+    },
+    {
+        "image": "tablet",
+        "name": "Tablet",
+        "price": 399.99,
+        "id": "P014",
+        "description": "Discover the ultimate in portable computing with our versatile Tablet. Ideal for work, play, and everything in between!"
+    },
+    {
+        "image": "fitness_tracker",
+        "name": "Fitness Tracker",
+        "price": 99.99,
+        "id": "P015",
+        "description": "Achieve your fitness goals with our advanced Fitness Tracker. Track your progress, stay motivated, and live healthier!"
+    }
+]
